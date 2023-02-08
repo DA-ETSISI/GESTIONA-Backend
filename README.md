@@ -6,7 +6,7 @@ Este sistema se encargará de añadir, modificar, y borrar los elementos de una 
 
 ## Despliegue
 
-Para desplegar los dos servicios (backend y base de datos) se debe tener docker instalado y navegar a la ruta donde está el `docker-compose.yaml`
+Para desplegar los dos servicios (backend y base de datos) se debe tener docker instalado y navegar a la ruta donde está el __docker-compose.yaml__
 
 `docker compose up`
 
