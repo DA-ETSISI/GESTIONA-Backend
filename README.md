@@ -12,4 +12,4 @@ Para desplegar los dos servicios (backend y base de datos) se debe tener docker 
 
 ## Disclaimer
 
-Puesto que es una etapa temprana de desarrollo no se asegura el correcto comportamiento de la applicación.
+Puesto que es una etapa temprana de desarrollo no se asegura el correcto comportamiento de la aplicación.
